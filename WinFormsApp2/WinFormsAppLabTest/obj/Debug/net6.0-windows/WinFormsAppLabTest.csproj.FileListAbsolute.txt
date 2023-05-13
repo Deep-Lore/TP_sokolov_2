@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\bin\Debug\net6.0-windows\WinFormsAppLabTest.exe
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\bin\Debug\net6.0-windows\WinFormsAppLabTest.deps.json
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\bin\Debug\net6.0-windows\WinFormsAppLabTest.runtimeconfig.json
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\bin\Debug\net6.0-windows\WinFormsAppLabTest.dll
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\bin\Debug\net6.0-windows\WinFormsAppLabTest.pdb
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.RegisterForm.resources
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.AssemblyInfo.cs
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.dll
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\refint\WinFormsAppLabTest.dll
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.pdb
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\WinFormsAppLabTest.genruntimeconfig.cache
+C:\Users\USER\source\repos\WinFormsApp2\WinFormsApp2\WinFormsAppLabTest\obj\Debug\net6.0-windows\ref\WinFormsAppLabTest.dll
